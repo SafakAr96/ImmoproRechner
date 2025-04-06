@@ -1,2 +1,0 @@
-# ImmoproRechner
-ImmobilienRechner
